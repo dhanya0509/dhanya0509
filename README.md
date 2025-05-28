@@ -9,8 +9,7 @@ Beyond my professional projects, my daily hobby is diving into all kinds of data
 📊 Interactive Dashboards & Visual Analytics
 
 Explore my curated collection of dashboards and interactive visualizations across business, health, and environmental domains. These projects reflect my passion for presenting data in meaningful and decision-driven formats.
-
-🔗 [GitHub Repository](https://github.com/dhanya0509/Data-Visualizations)
+[GitHub Repository](https://github.com/dhanya0509/Data-Visualizations)
 
 ## 📁 Projects
 
