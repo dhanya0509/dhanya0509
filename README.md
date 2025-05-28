@@ -6,6 +6,11 @@ As a data analytics professional with a strong foundation in **Python, R, SQL, a
 
 Beyond my professional projects, my daily hobby is diving into all kinds of datasets just for fun — from weirdly specific CSVs to massive public repositories. Whether it’s decoding EV adoption trends or predicting bizarre internet traffic spikes, I enjoy turning raw data into stories, insights, and occasionally, colorful dashboards.
 
+📊 Interactive Dashboards & Visual Analytics
+
+Explore my curated collection of dashboards and interactive visualizations across business, health, and environmental domains. These projects reflect my passion for presenting data in meaningful and decision-driven formats.
+🔗 View Visualizations on GitHub
+
 ## 📁 Projects
 
 ### 1. Domain Name System Security Extensions (DNSSEC) Outage Analysis  
