@@ -14,20 +14,20 @@ Explore my curated collection of dashboards and interactive visualizations acros
 ## 📁 Projects
 
 ### 1. Domain Name System Security Extensions (DNSSEC) Outage Analysis  
-Analyzed the impact of DNSSEC outages during natural disasters by combining DNS server availability logs with disaster event data (e.g., earthquakes, tsunamis) specific to Indonesia, revealing patterns of vulnerability in critical infrastructure.  
-Built a scalable data pipeline using AWS S3 for storage, AWS EMR for data extraction and transformation with PySpark/SparkSQL, and developed machine learning models (Random Forest, Logistic Regression, Gradient Boosting) to predict server outages under adverse conditions.  
-Visualized outage trends and disaster correlations using Power BI and AWS QuickSight, supported by geospatial mapping and temporal insights to highlight high-risk regions and improve DNS resiliency planning.  
+- Analyzed the impact of DNSSEC outages during natural disasters by combining DNS server availability logs with disaster event data (e.g., earthquakes, tsunamis) specific to Indonesia, revealing patterns of vulnerability in critical infrastructure.  
+- Built a scalable data pipeline using AWS S3 for storage, AWS EMR for data extraction and transformation with PySpark/SparkSQL, and developed machine learning models (Random Forest, Logistic Regression, Gradient Boosting) to predict server outages under adverse conditions.  
+- Visualized outage trends and disaster correlations using Power BI and AWS QuickSight, supported by geospatial mapping and temporal insights to highlight high-risk regions and improve DNS resiliency planning.  
 [GitHub Repository](https://github.com/dhanya0509/DNSSEC_Impact_Analysis)
 
 ### 2. Electric Vehicle Population Analysis using R  
-Conducted a detailed analysis of U.S. Electric Vehicle (EV) population data from Data.gov using R, focusing on trends in electric range, vehicle type (BEV/PHEV), and policy eligibility (CAFV).  
-Applied exploratory data analysis, multiple regression, and regression tree models to identify patterns in EV range, price, and adoption.  
-Performed k-means clustering to group EVs by range and model year, identifying Washington state as a key region for high-range EV adoption.  
+- Conducted a detailed analysis of U.S. Electric Vehicle (EV) population data from Data.gov using R, focusing on trends in electric range, vehicle type (BEV/PHEV), and policy eligibility (CAFV).  
+- Applied exploratory data analysis, multiple regression, and regression tree models to identify patterns in EV range, price, and adoption.  
+- Performed k-means clustering to group EVs by range and model year, identifying Washington state as a key region for high-range EV adoption.  
 [GitHub Repository](https://github.com/dhanya0509/Electric-Vehicle-Analysis-using-R)
 
 ### 3. Logs Classification using BERT and LLM  
-Built a Python-based log classification system using BERT embeddings (SentenceTransformer) and Large Language Models (LLMs), supporting multiple log formats and extensible classification categories.  
-Implemented machine learning pipelines with Scikit-learn, automated classification using joblib, and integrated GROQ LLM APIs to offer dual-mode predictions, improving classification accuracy and scalability.  
+- Built a Python-based log classification system using BERT embeddings (SentenceTransformer) and Large Language Models (LLMs), supporting multiple log formats and extensible classification categories.  
+- Implemented machine learning pipelines with Scikit-learn, automated classification using joblib, and integrated GROQ LLM APIs to offer dual-mode predictions, improving classification accuracy and scalability.  
 [GitHub Repository](https://github.com/dhanya0509/Logs-classification-using-BERT-and-LLM)
 
 ## 📜 Certifications
