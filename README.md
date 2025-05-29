@@ -36,9 +36,9 @@ Explore my curated collection of dashboards and interactive visualizations acros
   [Credential](https://www.credly.com/badges/789fe6df-07ba-4bdd-a081-270ce17807e9/public_url)
 - **AWS Educate: Introduction to Cloud 101** – Amazon Web Services (Issued May 2025)
   [Credential](https://www.credly.com/badges/70b05b28-eb04-4610-8384-688f67882354/public_url)  
-- **Advanced Learning Algorithms** – Coursera (Issued Nov 2023)  
+- **Advanced Learning Algorithms** – Coursera (Issued Nov 2023)
   [Credential](https://coursera.org/share/8bea07627d426483cc30368facf96fad)
-- **Supervised Machine Learning: Regression and Classification** – Coursera (Issued Jun 2022)  
+- **Supervised Machine Learning: Regression and Classification** – Coursera (Issued Jun 2022)
   [Credential](https://coursera.org/share/1925eda934573a4c28940a584f1e11d1)
 
 ## 🛠 Skills
