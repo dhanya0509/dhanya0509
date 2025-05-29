@@ -41,7 +41,7 @@ Explore my curated collection of dashboards and interactive visualizations acros
 - **Supervised Machine Learning: Regression and Classification** – Coursera (Issued Jun 2022)  
   [Credential](https://coursera.org/share/1925eda934573a4c28940a584f1e11d1)
 
-  ## 🛠 Skills
+## 🛠 Skills
 
 - Programming Languages: Python, R, SQL, NoSQL, SparkSQL, Shell Scripting
 - Data Engineering: PySpark, Dask, Pandas, NumPy, AWS Glue, AWS EMR, Databricks
