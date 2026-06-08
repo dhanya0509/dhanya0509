@@ -54,12 +54,31 @@ Explore my curated collection of dashboards and interactive visualizations acros
 
 ## 🛠 Skills
 
-- Programming Languages: Python, R, SQL, NoSQL, SparkSQL, Shell Scripting
-- Data Engineering: PySpark, Dask, Pandas, NumPy, AWS Glue, AWS EMR, Databricks
-- Machine Learning: Scikit-learn, XGBoost, Random Forest, TensorFlow, PyTorch, ARIMA, Prophet, K-Means
-- Cloud Platforms: AWS (S3, Lambda, Redshift, SageMaker), Azure (basic), Docker, Kubernetes
-- BI & Visualization: Power BI, Tableau, AWS QuickSight, Seaborn, Matplotlib, Plotly
-- Statistical Tools: SPSS, SAS
-- DevOps & Tools: Git, GitHub, GitLab, Jupyter, VS Code
+Programming & Query Languages:
+Python, SQL, R, Snowflake SQL
+
+Data Engineering & Analytics:
+ETL/ELT Pipelines, Data Modeling, Data Warehousing, Data Lakes, Data Integration, Data Quality Validation, Data Governance, Data Reconciliation, Data Transformation, Data Migration, Batch Processing, Workflow Automation
+
+Cloud & Big Data Technologies:
+AWS (S3, Glue, Lambda, EC2, EMR, Athena, Redshift, SageMaker, CloudWatch), Snowflake, Databricks, Apache Airflow, dbt, Fivetran
+
+Data Science & Machine Learning:
+Scikit-Learn, Predictive Modeling, Statistical Analysis, Time Series Forecasting, Feature Engineering, Model Monitoring, Model Validation, Machine Learning Pipelines, A/B Testing, Risk Analytics, Customer Analytics
+
+Artificial Intelligence & Generative AI:
+OpenAI APIs, Claude AI, ChatGPT, GitHub Copilot, Prompt Engineering, Retrieval-Augmented Generation (RAG), LLM Applications, AI Workflow Automation
+
+Business Intelligence & Visualization:
+Power BI, Tableau, Amazon QuickSight, Microsoft Excel, Power Query, DAX, KPI Reporting, Dashboard Development, Data Storytelling
+
+Database & Storage Technologies:
+Snowflake, Microsoft SQL Server, Amazon Redshift, AWS S3
+
+Domain Expertise:
+Healthcare Analytics, Healthcare Claims Analysis, Population Health Analytics, Insurance Analytics, Claims Analytics, Underwriting Analytics, Customer Retention Analytics, Financial & Operational Reporting
+
+Project & Collaboration Tools:
+JIRA, Confluence, SharePoint, Microsoft Project, Microsoft Teams, Visio, Git, GitHub
   
 I'm always exploring new ways to blend **analytics, cloud platforms, and machine learning** to solve real-world problems.
