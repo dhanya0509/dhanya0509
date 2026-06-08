@@ -45,6 +45,10 @@ Explore my curated collection of dashboards and interactive visualizations acros
   [Credential](https://coursera.org/share/8bea07627d426483cc30368facf96fad)
 - **Supervised Machine Learning: Regression and Classification** – Coursera (Issued Jun 2022)
   [Credential](https://coursera.org/share/1925eda934573a4c28940a584f1e11d1)
+- **Mastering Quickbooks Online** – Coursera (Issued Jun 2026)
+  [Credential](https://www.coursera.org/account/accomplishments/certificate/IKAHLXQO8AMH)
+- **Foundations of Data Science** – Coursera (Issued Jun 2026)
+  [Credential](https://coursera.org/share/a2392b91e3da241f87ec6ecd626a395c))
 
 ## 🛠 Skills
 
