@@ -51,6 +51,10 @@ Explore my curated collection of dashboards and interactive visualizations acros
   [Credential](https://coursera.org/share/a2392b91e3da241f87ec6ecd626a395c)
 - **Get Started With Python** – Coursera (Issued Jun 2026)
   [Credential](https://coursera.org/share/870b2cb6b3a8c2726b79c448b5cce970)
+- **Hackerrank SQL Basic Certificate** - HankerRank (Issued 19 June 2026)
+  [Credential](https://www.hackerrank.com/certificates/46ff9222329d)
+- **Hackerrank SQL Intermediate Certificate** - HackerRank (Issued 20 June 2026)
+  [Credential](https://www.hackerrank.com/certificates/c9aca850a34d)
 
 ## 🛠 Skills
 
