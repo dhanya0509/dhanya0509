@@ -1,10 +1,12 @@
 # 👋 Hi, I'm Naga Sai Dhanya Veerepalli
 
-As a data analytics professional with a strong foundation in **Python, R, SQL, and cloud-based big data tools**, I specialize in uncovering actionable insights through scalable pipelines, machine learning models, and impactful visualizations. My work spans across domains like infrastructure resiliency, electric vehicle trends, and log intelligence using LLMs. With hands-on experience in tools like **PySpark, AWS, Power BI, and TensorFlow**, I’m passionate about building data-driven solutions that are both technically sound and business-focused.
+I'm a Data Analytics Engineering graduate student at George Mason University with a passion for transforming data into intelligent, scalable solutions through Data Engineering, Machine Learning, Artificial Intelligence, and Cloud Analytics.
 
-## 🧠 About Me
+My portfolio showcases end-to-end analytics projects where I design cloud-based data pipelines, engineer predictive machine learning models, and build interactive dashboards to solve real-world business problems. I enjoy working across the entire data lifecycle—from data ingestion and validation using AWS S3, Snowflake, and Apache Spark, to feature engineering, model development in Python, and business intelligence with Power BI and AWS QuickSight.
 
-Beyond my professional projects, my daily hobby is diving into all kinds of datasets just for fun — from weirdly specific CSVs to massive public repositories. Whether it’s decoding EV adoption trends or predicting bizarre internet traffic spikes, I enjoy turning raw data into stories, insights, and occasionally, colorful dashboards.
+My projects span multiple domains, including telecommunications, cybersecurity, electric vehicle analytics, natural language processing, and recommendation systems. These include developing cloud-native customer churn prediction models, analyzing DNSSEC outages during natural disasters, building LLM-powered log classification systems using BERT embeddings and GROQ APIs, performing predictive analytics on EV adoption trends, and designing sentiment-based recommendation engines.
+
+I enjoy exploring emerging technologies such as Generative AI, Large Language Models (LLMs), MLOps, and cloud-native machine learning, and I am always looking for opportunities to apply data-driven approaches to solve meaningful business and engineering challenges.
 
 ## 📊 Interactive Dashboards & Visual Analytics
 
