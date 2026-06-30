@@ -62,6 +62,10 @@ Explore my curated collection of dashboards and interactive visualizations acros
   [Credential](https://www.hackerrank.com/certificates/46ff9222329d)
 - **Hackerrank SQL Intermediate Certificate** - HackerRank (Issued 20 June 2026)
   [Credential](https://www.hackerrank.com/certificates/c9aca850a34d)
+- **Introduction to data for decision makers** - Forage (Issued 30 June 2026)
+  [Credential](https://www.theforage.com/simulations/bcg/data-for-decision-makers-tod0/completed)
+- **Forensic Technology Data Analytics Job Simulation** - Forage (Issued 30 June 2026)
+  [Credential](https://www.theforage.com/simulations/deloitte-au/data-analytics-s5zy/completed)
 
 ## 🛠 Skills
 
