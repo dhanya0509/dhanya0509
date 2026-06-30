@@ -1,10 +1,8 @@
 # 👋 Hi, I'm Naga Sai Dhanya Veerepalli
 
-I'm a Data Analytics Engineering graduate student at George Mason University with a passion for transforming data into intelligent, scalable solutions through Data Engineering, Machine Learning, Artificial Intelligence, and Cloud Analytics.
+I'm a Data Analytics Engineering graduate student at George Mason University with a passion for transforming data into intelligent, scalable solutions through Data Analytics, Machine Learning, Artificial Intelligence, and Cloud Analytics.
 
 My portfolio showcases end-to-end analytics projects where I design cloud-based data pipelines, engineer predictive machine learning models, and build interactive dashboards to solve real-world business problems. I enjoy working across the entire data lifecycle—from data ingestion and validation using AWS S3, Snowflake, and Apache Spark, to feature engineering, model development in Python, and business intelligence with Power BI and AWS QuickSight.
-
-My projects span multiple domains, including telecommunications, cybersecurity, electric vehicle analytics, natural language processing, and recommendation systems. These include developing cloud-native customer churn prediction models, analyzing DNSSEC outages during natural disasters, building LLM-powered log classification systems using BERT embeddings and GROQ APIs, performing predictive analytics on EV adoption trends, and designing sentiment-based recommendation engines.
 
 I enjoy exploring emerging technologies such as Generative AI, Large Language Models (LLMs), MLOps, and cloud-native machine learning, and I am always looking for opportunities to apply data-driven approaches to solve meaningful business and engineering challenges.
 
@@ -62,9 +60,9 @@ Explore my curated collection of dashboards and interactive visualizations acros
   [Credential](https://www.hackerrank.com/certificates/46ff9222329d)
 - **Hackerrank SQL Intermediate Certificate** - HackerRank (Issued 20 June 2026)
   [Credential](https://www.hackerrank.com/certificates/c9aca850a34d)
-- **Introduction to data for decision makers** - Forage (Issued 30 June 2026)
+- **Introduction to data for decision makers by BCGX** - Forage (Issued 30 June 2026)
   [Credential](https://www.theforage.com/simulations/bcg/data-for-decision-makers-tod0/completed)
-- **Forensic Technology Data Analytics Job Simulation** - Forage (Issued 30 June 2026)
+- **Forensic Technology Data Analytics Job Simulation By Deloitte** - Forage (Issued 30 June 2026)
   [Credential](https://www.theforage.com/simulations/deloitte-au/data-analytics-s5zy/completed)
 
 ## 🛠 Skills
